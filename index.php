@@ -113,17 +113,8 @@
 </head>
 <body>
     <header style="background-color: #673AB7;">
-        <h2 class="text-center text-light">PRODUCTOS</h2>
-    </header>
-    <!--BOTON DE AÑADIR, PARA QUE DESPLIEGUE EL FORMULARIO-->
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12"><br>
-                <button id="añadir" type="button" class="btn btn-success">Añadir Producto</button>
-            </div>
-        </div>
-    </div><br>
-    <!--FIN BOTON AÑADIR PARA DESPLEGAR-->
+        <h2 class="text-center text-light">PRODUCTOS</h2><br>
+    </header><br><br>
     
     <!--INICIO TABLA-->
     <form action="index.php" name="forma" method="post" id="forma">
